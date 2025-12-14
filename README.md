@@ -69,7 +69,6 @@
 <td colspan="2" align="center">
 <h3>📈 Activity Graph</h3>
 <a href="https://github.com/biezz-2">
-<!-- Saya memperbaiki link ini yang sebelumnya mengarah ke Google Search -->
 <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dbiezz-2%26bg_color%3D1a1b27%26color%3D7c3aed%26line%3D7c3aed%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" width="100%" alt="Activity Graph" />
 </a>
 </td>
@@ -80,7 +79,6 @@
 
 <h3>🛠️ Tech Stack & Tools</h3>
 <p align="center">
-<!-- Saya menambahkan ikon berdasarkan bahasa yang sering Anda gunakan -->
 <a href="https://skillicons.dev">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,php,laravel,mysql,vscode,git,github%26theme%3Ddark" />
 </a>
